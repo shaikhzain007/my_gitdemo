@@ -1,2 +1,6 @@
 a is awesome
+<<<<<<< HEAD
 a is apple
+=======
+a is avocado
+>>>>>>> dev
